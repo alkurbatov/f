@@ -1,0 +1,2 @@
+# No need in go.sum for library.
+go.sum
